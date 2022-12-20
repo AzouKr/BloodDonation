@@ -1,0 +1,63 @@
+#container{
+    position: absolute;
+    height: 89%;
+    width: 99%;
+}
+
+#quote{
+    position: absolute;
+    left: 300px;
+    top: 277px;
+}
+
+#img_back{
+    position: fixed;
+    right: 0px;
+
+}
+
+#btn-donate{
+    background-color: white;
+    left: 300px;
+    top: 477px;
+    height: 70px;
+    width: 185px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border: #16c2d5 solid 1px;
+    border-radius: 6px;
+    position: absolute;
+    background-color: #16c2d5;
+    color: white;
+}
+
+#btn-donate:hover{
+    cursor: pointer;
+}
+
+#btn-signup:hover{
+    cursor: pointer;
+}
+
+#btn-signup{
+    background-color: white;
+    position: absolute;
+    left: 535px;
+    top: 477px;
+    height: 70px;
+    width: 185px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    border: #16c2d5 solid 1px;
+    border-radius: 6px;
+    color: black;
+}
+
+.first-img{
+    height: 400px;
+    position: absolute;
+    left: 310px;
+    top: -30px;
+}

@@ -1,0 +1,74 @@
+$bp-small: 48em;
+$bp-medium: 64em;
+$bp-large: 85.375em; // 1366px
+$bp-xlarge: 120em; // 1920px
+$bp-xxlarge: 160em; // 2560px
+
+// Media Queries
+$mq-small: "(max-width: #{$bp-small})";
+$mq-medium: "(max-width: #{$bp-medium})";
+$mq-large: "(max-width: #{$bp-large})";
+$mq-xlarge: "(max-width: #{$bp-xlarge})";
+$mq-xxlarge: "(max-width: #{$bp-xxlarge})";
+$mq-retina: "(-webkit-max-device-pixel-ratio: 2), (max-resolution: 192dpi)";
+
+
+  @media #{$mq-large}  {
+    #container{
+      position: relative;
+      transform: scale(0.7);     
+      right: 15rem;   
+    }
+    #img_back{
+      position: fixed;
+      transform: scale(0.8);
+      right: -45rem;
+      top: -5rem;
+    }
+    #quote{
+      position: absolute;
+      left: 300px;
+      top: 200px;
+  }
+  
+
+#btn-donate{
+  background-color: white;
+  left: 300px;
+  top: 400px;
+  height: 70px;
+  width: 185px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border: #16c2d5 solid 1px;
+  border-radius: 6px;
+  position: absolute;
+  background-color: #16c2d5;
+  color: white;
+}
+
+#btn-donate:hover{
+  cursor: pointer;
+}
+
+#btn-signup:hover{
+  cursor: pointer;
+}
+
+#btn-signup{
+  background-color: white;
+  position: absolute;
+  left: 535px;
+  top: 400px;
+  height: 70px;
+  width: 185px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border: #16c2d5 solid 1px;
+  border-radius: 6px;
+  color: black;
+}
+
+}

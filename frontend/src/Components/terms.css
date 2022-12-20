@@ -1,0 +1,62 @@
+
+.titl1{
+    position: relative;
+    left: 11rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 59px;
+}
+
+.subtit1{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    left: 8;
+    font-size: 20px;
+}
+
+.para1{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+.one{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    font-size: 17px;
+
+}
+
+.subtit2{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    left: 8;
+    font-size: 20px;
+}
+
+.two{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    font-size: 17px;
+
+}
+
+.subtit3{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.three{
+    position: relative;
+    left: 11rem;
+    padding-bottom: 20px;
+    font-size: 17px;
+
+}
