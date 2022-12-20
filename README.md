@@ -12,7 +12,7 @@ BloodDonation aims to connect those who need blood and those who can donate bloo
 Home Page
 </h4>
 
-![Landing Page](src/img/homepage.jpg)
+![Landing Page](frontend/src/img/homepage.jpg)
 <br>
 
 ## Live-Demo
@@ -32,9 +32,9 @@ For all our feature and bug tracking, we use the [Issues Section](https://github
 # Some Images
 
 
-![Landing Page](src/img/homepage.jpg)
+![Landing Page](frontend/src/img/homepage.jpg)
 <br><br>
-![Landing Page](src/img/donate.jpg)
+![Landing Page](frontend/src/img/donate.jpg)
 <br><br>
-![Landing Page](src/img/search.jpg)
+![Landing Page](frontend/src/img/search.jpg)
 <br>
